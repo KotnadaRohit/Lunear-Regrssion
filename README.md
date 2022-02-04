@@ -1,1 +1,1 @@
-# Lunear-Regrssion
+# Linear-Regrssion
